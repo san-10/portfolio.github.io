@@ -14,5 +14,5 @@ The instructor during the session was Mr. Shaurya Sinha (a Data Analyst at Jio).
 
 <li>CSS
  
-<li>JS
+<li>JavaScript 
 
